@@ -5,5 +5,3 @@
 ## Страница интернет-магазина (class-based компонент)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/h879r6a43yd8m3u1?svg=true)](https://ci.appveyor.com/project/ChumakovaAnna/r-hw-1-task-2)
-
-https://chumakovaanna.github.io/R-hw-1-task-2/
